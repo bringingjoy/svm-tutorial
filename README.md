@@ -1,10 +1,10 @@
-# Understanding your data and using the SVM algorithm for classification
+ # Understanding your data and using the SVM algorithm for classification
 If you've ever wanted to build a predictive model that learns the aspects of your data which make it fall into one category or another, then this is tutorial was written for you!
 In this tutorial, you learn some tools for better understands the dataset you are working with via visualization tools, data preprocessing tips, and dimensionality reduction options.
 You'll also learn about a classic Machine Learning (ML) algorithm known affectionately as SVM, or the Support Vector Machine model. 
 
 The two focuses of this article will walk you through:
-#I. Working with your data:
+# I. Working with your data:
 ####  1) Preliminaries: 
 Loading a datafile into a Numpy (multidimensional) array
 ####  2) Preprocessing: 
