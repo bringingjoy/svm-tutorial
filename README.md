@@ -30,6 +30,6 @@ How to build your classifier and test its performance
 If not, we will be using the following datasets from the UC Irvine Machine Learning repository in this tutorial: 
 - [Epileptic Seizure Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition) <br>
 
-<script src="https://github.com/bringingjoy/svm-tutorial/svm-tutorial-notebook.ipynb"></script>
+<script src="https://github.com/bringingjoy/svm-tutorial/blob/master/svm-tutorial-notebook.ipynb"></script>
 
 
