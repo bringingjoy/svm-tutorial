@@ -31,9 +31,11 @@ How to tweak the special *knobs* of SVM to get better performance
 ### We assume that:
 <b>1)</b> You have a <b>basic understanding</b> of what Machine Learning is or does (if not, please check out this excellent resource: ) <br>
 <b>2)</b> <b>Basic Python/coding skills</b> (Numpy experience not necessary, but you should understand what a for-loop is or not be afraid to read the Python documentation) <br>
-<b>3)</b> You <b>aren't afraid of exposure to mathematics</b> (if you are, take a deep breath and open your mind to witnessing its beauty and utility!) <br>
+<b>3)</b> You have some basic mathematics knowledge, are familiar with a vector, matrix, or can look up these definitions. <br>
 <b>4)</b> You have a dataset with <b>binary classes</b> (2 classes): <br>
-If not, we will be using the following datasets in this tutorial: <br>
+If not, we will be using the following datasets from the UC Irvine Machine Learning repository in this tutorial: 
+- [Epileptic Seizure Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition) <br>
 
+<script src="https://github.com/bringingjoy/svm-tutorial/svm-tutorial-notebook.ipynb"></script>
 
 
